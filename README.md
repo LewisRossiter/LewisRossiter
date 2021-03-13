@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @LewisRossiter
+- 👻 Learning PHP, JavaScript and React
